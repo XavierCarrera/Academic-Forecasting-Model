@@ -4,4 +4,4 @@ This exploratory data analysis is my project for the [Inferential Statistics wit
 
 As well, this is one of the challenges for Platzi Master -- an education acceleration program to form the future tech leaders in LATAM.
 
-<h2> Brief description : </h2>
+<h2> Brief description: </h2>
