@@ -6,4 +6,10 @@ As well, this is one of the challenges for Platzi Master -- an education acceler
 
 <h2> Brief description: </h2>
 
-The goal of this project is to implement an statistical model which can analyze the performance of a group of students. For this purpose, the model also evaluates socioeconomic variables. The final outcome is a result visualization. 
+The goal of this project is to implement an statistical model which can analyze the performance of a group of students. For this purpose, the model also evaluates socioeconomic variables. The final outcome is a result visualization. The implemented strategies are as follow:
+
+- Parameter Interval Estimation
+- Neural Network Building
+- Crossed Validation
+- Optimal Sample Calculation
+
